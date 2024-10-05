@@ -1,0 +1,7 @@
+Nombre tipo | Cantidad inasistencias por tipo
+Media falta, 250 
+Llegada tarde, 276 
+Actividad deportiva, 78 
+Falta, 249 
+Carpeta médica, 71 
+Actividad académica, 76 
